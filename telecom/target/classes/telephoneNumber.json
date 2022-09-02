@@ -1,0 +1,6 @@
+[{"numberIdentifier": "245465765" ,"phoneNumber" : {"number": "245465765","status": "Active"},"customer": {"customerID": "214343"}},
+{"numberIdentifier": "245465766" ,"phoneNumber" : {"number": "245465766","status": "Active"},"customer": {"customerID": "214341"}},
+{"numberIdentifier": "245465767" ,"phoneNumber" : {"number": "245465767","status": "Active"},"customer": {"customerID": "214343"}},
+{"numberIdentifier": "245465768" ,"phoneNumber" : {"number": "245465768","status": "InActive"}},
+{"numberIdentifier": "245465769" ,"phoneNumber" : {"number": "245465769","status": "InActive"}}
+]
